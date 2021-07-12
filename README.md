@@ -1,2 +1,2 @@
-# Musical-Demo
+# Musical Demo
 Music
